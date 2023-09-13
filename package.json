@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "@top-gg/sdk": "^3.1.5",
+    "ascii-table": "^0.0.9",
+    "axios": "^1.5.0",
+    "canvas": "^2.11.2",
+    "colorthief": "^2.4.0",
+    "discord.js": "^14.13.0",
+    "discordbotlist": "^1.1.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "glob": "^8.0.3",
+    "jimp": "^0.22.10",
+    "mogodb": "^0.0.1-security",
+    "mongoose": "^7.4.5",
+    "node-fetch": "^3.3.2",
+    "node.js": "^0.0.1-security",
+    "nodemon": "^3.0.1",
+    "path": "^0.12.7",
+    "replicate": "^0.16.1"
+  },
+  "engines": {
+    "node": "18.16.1",
+    "npm": "9.8.1"
+  },
+  "name": "cubedix",
+  "version": "1.1.6",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "CoraTetch",
+  "license": "ISC",
+  "description": "Bot que busca obtener mas interacción y diversión en los servidores de Discord."
+}
