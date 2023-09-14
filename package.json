@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@napi-rs/canvas": "^0.1.44",
     "@top-gg/sdk": "^3.1.5",
     "ascii-table": "^0.0.9",
     "axios": "^1.5.0",
@@ -21,7 +22,7 @@
     "replicate": "^0.16.1"
   },
   "engines": {
-    "node": "18.16.1",
+    "node": "20.6.0",
     "npm": "9.8.1"
   },
   "name": "cubedix",

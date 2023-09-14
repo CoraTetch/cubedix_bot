@@ -31,7 +31,7 @@ module.exports = {
 
             let cmd =
                 client.prefix.get(command) ||
-                client.commands.find(c => command.aliases && cmd.aliases.includes(command));
+                client.commands.find(c => command.alias && cmd.alias.includes(command));
 
             if (!cmd) return;
 
