@@ -1,4 +1,4 @@
-# CubeDix 1.1.7
+# CubeDix 1.1.8
 ## Web oficial del bot [CubeDix](https://cubedix.akiomae.com/) | Creado por CoraTetch.
 ![Presentación](https://cdn.discordapp.com/attachments/1133122455163109417/1143237417856401428/Logo_video.png)
 
